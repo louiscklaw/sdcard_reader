@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SDCARD_reader-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SDCARD_reader-eagle-import.lib)(options "")(descr ""))
+)

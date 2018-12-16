@@ -1,0 +1,131 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun Dec 16 04:04:10 2018
+
+BeginCmp
+TimeStamp = 5C293569
+Path = /5C175B5E
+Reference = Y1;
+ValeurCmp = O12M;
+IdModule  = w_crystal:crystal_hc-49s;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C297F40
+Path = /5C1A47E9
+Reference = C2;
+ValeurCmp = C221,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2936B0
+Path = /5C17E70B
+Reference = C3;
+ValeurCmp = C104,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C29369F
+Path = /5C177C3B
+Reference = C4;
+ValeurCmp = C104,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C29368E
+Path = /5C17BD6C
+Reference = C5;
+ValeurCmp = C104,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C297E6E
+Path = /5C1A478C
+Reference = C1;
+ValeurCmp = C221,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C297469
+Path = /5C17609C
+Reference = J1;
+ValeurCmp = USB_B_Micro;
+IdModule  = Connector_USB:USB_Micro-B_Molex_47346-0001;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C29364C
+Path = /5C18797F
+Reference = D1;
+ValeurCmp = LED_GREEN,0603;
+IdModule  = LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C293639
+Path = /5C175931
+Reference = U1;
+ValeurCmp = GL827L;
+IdModule  = Package_SO:SSOP-28_3.9x9.9mm_P0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C293608
+Path = /5C17E953
+Reference = R2;
+ValeurCmp = R103,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2935F7
+Path = /5C17BCB1
+Reference = R6;
+ValeurCmp = R103,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2935E6
+Path = /5C179542
+Reference = R5;
+ValeurCmp = R102,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2935D5
+Path = /5C176D4D
+Reference = R4;
+ValeurCmp = R220,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2935C4
+Path = /5C176CF6
+Reference = R3;
+ValeurCmp = R220,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2935B3
+Path = /5C186C09
+Reference = R1;
+ValeurCmp = R103,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C29544D
+Path = /5C18A7AB
+Reference = SDC1;
+ValeurCmp = TF_CARD_SOCKET,SELF_EJECT;
+IdModule  = footprint-lib:SUNTECH_ST-TF-003A;
+EndCmp
+
+EndListe
