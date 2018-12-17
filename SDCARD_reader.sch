@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:SDCARD_reader-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -5397,4 +5398,19 @@ Wire Wire Line
 	4600 5050 4300 5050
 Wire Wire Line
 	4100 5250 4100 5050
+$Comp
+L power:GND #PWR?
+U 1 1 5C16BAD6
+P 7350 5750
+F 0 "#PWR?" H 7350 5500 50  0001 C CNN
+F 1 "GND" H 7400 5550 50  0000 C CNN
+F 2 "" H 7350 5750 50  0001 C CNN
+F 3 "" H 7350 5750 50  0001 C CNN
+	1    7350 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 5750 7350 5250
+Wire Wire Line
+	7350 5250 7500 5250
 $EndSCHEMATC
